@@ -1,3 +1,4 @@
 /Build/*
+  Content-Type: application/javascript; charset=utf-8
   Content-Encoding: br
   Cache-Control: public, max-age=31536000, immutable
